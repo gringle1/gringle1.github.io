@@ -1,0 +1,53 @@
+---
+title: "Research & Publications"
+---
+
+# Selected Work
+
+*For a full publication list, see my [CV](GR_CV_03232026.pdf) or [Google Scholar](https://scholar.google.com/citations?user=8EyqLFQAAAAJ&hl=en&oi=ao.).*
+
+## Preprints & Under Review
+
+**Ringlein, G. V.**, Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. *arXiv*. Under review. [doi:10.48550/arxiv.2512.24413](https://doi.org/10.48550/ARXIV.2512.24413)
+
+Ettman, C. K., Jeon, K., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. Mental health services following suicide-related hospital visits: An analysis of electronic health records. Under review.
+
+## In Press
+
+Nguyen, T. Q., Nabi, R., Yang, F., **Ringlein, G. V.**, & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. *Statistical Science*. [doi:10.48550/arXiv.2411.07221](https://doi.org/10.48550/arXiv.2411.07221)
+
+Hong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., **Ringlein, G.**, et al. Comparative effectiveness of antidepressants for depression using EHRs from two health systems. *BMC Psychiatry.*
+
+## Peer-Reviewed Publications
+
+**Ringlein, G. V.**, Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. *JAMA Network Open*, 7(7), e2424601. [doi:10.1001/jamanetworkopen.2024.24601](https://doi.org/10.1001/jamanetworkopen.2024.24601)
+
+Ettman, C. K., **Ringlein, G. V.**, Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. *PNAS Nexus*, pgaf016. [doi:10.1093/pnasnexus/pgaf016](https://doi.org/10.1093/pnasnexus/pgaf016)
+
+Ettman, C. K., Brantner, C. L., Goicoechea, E. B., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. (2025). Gaps in psychiatric care before and after the COVID-19 pandemic among patients with depression using electronic health records. *Psychiatry Research*, 344, 116354. [doi:10.1016/j.psychres.2025.116354](https://doi.org/10.1016/j.psychres.2025.116354)
+
+Brantner, C. L., Yu, W., Zhao, C., Jeon, K., **Ringlein, G. V.**, Wang, Q., et al. (2025). The challenges of integrating diverse data sources: A case study in major depression. *Health Services and Outcomes Research Methodology*. [doi:10.1007/s10742-025-00363-8](https://doi.org/10.1007/s10742-025-00363-8)
+
+Ettman, C. K., Fan, A. Y., Philips, A. P., Adam, G. P., **Ringlein, G.**, Clark, M. A., et al. (2023). Financial strain and depression in the U.S.: A scoping review. *Translational Psychiatry*, 13(1), 168. [doi:10.1038/s41398-023-02460-z](https://doi.org/10.1038/s41398-023-02460-z)
+
+<!-- ## National Institute of Mental Health -->
+
+<!-- *Publications affiliated with my postbaccalaureate fellowship at NIMH.* -->
+
+<!-- Richier, C., Zugman, A., Harrewijn, A., Cardinale, E., Khosravi, P., et al. Brain Age Prediction in Generalized Anxiety Disorder using a Convolutional Neural Network. *Translational Psychiatry.* Forthcoming. -->
+
+<!-- Lossio-Ventura, J. A., Frank, S., **Ringlein, G.**, Bonson, K., Olszko, A., Knobel, A., et al. (2025). Automated classification of exposure and encourage events in speech data from pediatric OCD treatment. *JAMIA Open*, 8(6), ooaf127. [doi:10.1093/jamiaopen/ooaf127](https://doi.org/10.1093/jamiaopen/ooaf127) -->
+
+<!-- Zugman, A., **Ringlein, G. V.**, Finn, E. S., Lewis, K. M., Berman, E., Silverman, W. K., et al. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. *Psychological Medicine*, 55, e91. [doi:10.1017/S0033291724003131](https://doi.org/10.1017/S0033291724003131) -->
+
+<!-- Kirk, P. A., Qamar, P., Zugman, A., Abend, R., Frank, S., **Ringlein, G. V.**, et al. (2025). The relations among anxiety, movie-watching, and in-scanner motion. *Human Brain Mapping*, 46(4), e70163. [doi:10.1002/hbm.70163](https://doi.org/10.1002/hbm.70163) -->
+
+<!-- Medel, V., Alliende, L. M., Bethlehem, R., Seidlitz, J., **Ringlein, G.**, Arango, C., et al. (2025). Human development, inequality, and their associations with brain structure across 29 countries. *European Psychiatry*, 68(1), e100. [doi:10.1192/j.eurpsy.2025.10060](https://doi.org/10.1192/j.eurpsy.2025.10060) -->
+
+<!-- Zugman, A., Alliende, L. M., Medel, V., Bethlehem, R. A. I., Seidlitz, J., **Ringlein, G.**, et al. (2023). Country-level gender inequality is associated with structural differences in the brains of women and men. *Proceedings of the National Academy of Sciences*, 120(20), e2218782120. [doi:10.1073/pnas.2218782120](https://doi.org/10.1073/pnas.2218782120) -->
+
+<!-- Harrewijn, A., Cardinale, E. M., Groenewold, N. A., Bas-Hoogendam, J. M., Aghajani, M., Hilbert, K., et al. (2021). Cortical and subcortical brain structure in generalized anxiety disorder: Findings from 28 research sites in the ENIGMA-Anxiety Working Group. *Translational Psychiatry*, 11(1), 502. [doi:10.1038/s41398-021-01622-1](https://doi.org/10.1038/s41398-021-01622-1) -->
+
+<!-- ## Undergraduate Research -->
+
+<!-- Gnanadesikan, A., Speller, C. M., **Ringlein, G.**, San Soucie, J., Thomas, J., & Pradal, M.-A. (2020). Feedbacks driving interdecadal variability in southern ocean convection in climate models: A coupled oscillator mechanism. *Journal of Physical Oceanography*, 50(8), 2227–2249. [doi:10.1175/JPO-D-20-0037.1](https://doi.org/10.1175/JPO-D-20-0037.1) -->

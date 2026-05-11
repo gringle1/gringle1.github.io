@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+## Johns Hopkins Bloomberg School of Public Health
+
+**Teaching Assistant**, Department of Biostatistics, 2023–Present
+
+-   *Causal Inference in Medicine and Public Health I* (3rd and 4th terms: 2024, 2025; 3rd term: 2026)
+    -   Guest lecture: Regression Discontinuity Designs (March 4, 2025; March 3, 2026)
+-   *Multilevel and Longitudinal Models: Data Analysis Workshop* (2nd term, 2025)
+-   *Analysis of Multilevel and Longitudinal Models* (1st term, 2025)
+-   *Statistical Methods in Public Health I–II* (1st and 2nd terms, 2024)
+-   *Statistical Methods in Public Health IV* (4th term, 2026)
+-   *Advanced Methods in Biostatistics I–II* (1st and 2nd terms, 2023)
+
+## University of Pennsylvania
+
+**Teaching Assistant**, Department of Physics and Astronomy, 2018–2020
+
+-   *Laboratory Electronics* (Spring 2020)
+-   *Physics for Architects* (Fall 2019)
+-   Laboratory Instructor, *General Physics: Electricity, Magnetism, Optics, Modern Physics* (Fall 2019; Spring 2018)
