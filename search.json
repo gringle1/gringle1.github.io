@@ -30,50 +30,50 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research & Publications",
+    "title": "Selected Publications",
     "section": "",
-    "text": "For a full publication list, see my CV or Google Scholar.\n\n\nRinglein, G. V., Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. arXiv. Under review. doi:10.48550/arxiv.2512.24413\nEttman, C. K., Jeon, K., Dohlman, P., Ringlein, G. V., Straub, J., et al. Mental health services following suicide-related hospital visits: An analysis of electronic health records. Under review.\n\n\n\nNguyen, T. Q., Nabi, R., Yang, F., Ringlein, G. V., & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. Statistical Science. doi:10.48550/arXiv.2411.07221\nHong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., Ringlein, G., et al. Comparative effectiveness of antidepressants for depression using EHRs from two health systems. BMC Psychiatry.\n\n\n\nRinglein, G. V., Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. JAMA Network Open, 7(7), e2424601. doi:10.1001/jamanetworkopen.2024.24601\nEttman, C. K., Ringlein, G. V., Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. PNAS Nexus, pgaf016. doi:10.1093/pnasnexus/pgaf016\nEttman, C. K., Brantner, C. L., Goicoechea, E. B., Dohlman, P., Ringlein, G. V., Straub, J., et al. (2025). Gaps in psychiatric care before and after the COVID-19 pandemic among patients with depression using electronic health records. Psychiatry Research, 344, 116354. doi:10.1016/j.psychres.2025.116354\nBrantner, C. L., Yu, W., Zhao, C., Jeon, K., Ringlein, G. V., Wang, Q., et al. (2025). The challenges of integrating diverse data sources: A case study in major depression. Health Services and Outcomes Research Methodology. doi:10.1007/s10742-025-00363-8\nEttman, C. K., Fan, A. Y., Philips, A. P., Adam, G. P., Ringlein, G., Clark, M. A., et al. (2023). Financial strain and depression in the U.S.: A scoping review. Translational Psychiatry, 13(1), 168. doi:10.1038/s41398-023-02460-z"
+    "text": "For a full publication list, see my CV or Google Scholar."
   },
   {
-    "objectID": "research.html#preprints-under-review",
-    "href": "research.html#preprints-under-review",
-    "title": "Research & Publications",
-    "section": "",
-    "text": "Ringlein, G. V., Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. arXiv. Under review. doi:10.48550/arxiv.2512.24413\nEttman, C. K., Jeon, K., Dohlman, P., Ringlein, G. V., Straub, J., et al. Mental health services following suicide-related hospital visits: An analysis of electronic health records. Under review."
+    "objectID": "research.html#methods-for-causal-inference",
+    "href": "research.html#methods-for-causal-inference",
+    "title": "Selected Publications",
+    "section": "Methods for Causal Inference",
+    "text": "Methods for Causal Inference\nRinglein, G. V., Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. arXiv. Under review. doi:10.48550/arxiv.2512.24413\nNguyen, T. Q., Nabi, R., Yang, F., Ringlein, G. V., & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. Statistical Science. In press. doi:10.48550/arXiv.2411.07221."
   },
   {
-    "objectID": "research.html#in-press",
-    "href": "research.html#in-press",
-    "title": "Research & Publications",
-    "section": "",
-    "text": "Nguyen, T. Q., Nabi, R., Yang, F., Ringlein, G. V., & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. Statistical Science. doi:10.48550/arXiv.2411.07221\nHong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., Ringlein, G., et al. Comparative effectiveness of antidepressants for depression using EHRs from two health systems. BMC Psychiatry."
+    "objectID": "research.html#mental-health-care-utilization-electronic-health-records-analyses",
+    "href": "research.html#mental-health-care-utilization-electronic-health-records-analyses",
+    "title": "Selected Publications",
+    "section": "Mental Health Care Utilization: Electronic Health Records Analyses",
+    "text": "Mental Health Care Utilization: Electronic Health Records Analyses\nEttman, C. K., Jeon, K., Dohlman, P., Ringlein, G. V., Straub, J., et al. Psychiatric services following suicide-related hospital visits: An analysis of electronic health records among patients with depression. Under review.\nHong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., Ringlein, G. V., et al. Comparative effectiveness of antidepressants for depression using EHRs from two health systems. BMC Psychiatry (2026). doi:/10.1186/s12888-026-08159-x\nEttman, C. K., Ringlein, G. V., Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. PNAS Nexus, pgaf016. doi:10.1093/pnasnexus/pgaf016\nEttman, C. K., Brantner, C. L., Goicoechea, E. B., Dohlman, P., Ringlein, G. V., Straub, J., et al. (2025). Gaps in psychiatric care before and after the COVID-19 pandemic among patients with depression using electronic health records. Psychiatry Research, 344, 116354. doi:10.1016/j.psychres.2025.116354\nBrantner, C. L., Yu, W., Zhao, C., Jeon, K., Ringlein, G. V., Wang, Q., et al. (2025). The challenges of integrating diverse data sources: A case study in major depression. Health Services and Outcomes Research Methodology. doi:10.1007/s10742-025-00363-8"
   },
   {
-    "objectID": "research.html#peer-reviewed-publications",
-    "href": "research.html#peer-reviewed-publications",
-    "title": "Research & Publications",
-    "section": "",
-    "text": "Ringlein, G. V., Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. JAMA Network Open, 7(7), e2424601. doi:10.1001/jamanetworkopen.2024.24601\nEttman, C. K., Ringlein, G. V., Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. PNAS Nexus, pgaf016. doi:10.1093/pnasnexus/pgaf016\nEttman, C. K., Brantner, C. L., Goicoechea, E. B., Dohlman, P., Ringlein, G. V., Straub, J., et al. (2025). Gaps in psychiatric care before and after the COVID-19 pandemic among patients with depression using electronic health records. Psychiatry Research, 344, 116354. doi:10.1016/j.psychres.2025.116354\nBrantner, C. L., Yu, W., Zhao, C., Jeon, K., Ringlein, G. V., Wang, Q., et al. (2025). The challenges of integrating diverse data sources: A case study in major depression. Health Services and Outcomes Research Methodology. doi:10.1007/s10742-025-00363-8\nEttman, C. K., Fan, A. Y., Philips, A. P., Adam, G. P., Ringlein, G., Clark, M. A., et al. (2023). Financial strain and depression in the U.S.: A scoping review. Translational Psychiatry, 13(1), 168. doi:10.1038/s41398-023-02460-z"
+    "objectID": "research.html#financial-strain-job-loss-and-mental-health",
+    "href": "research.html#financial-strain-job-loss-and-mental-health",
+    "title": "Selected Publications",
+    "section": "Financial Strain, Job loss, and Mental Health",
+    "text": "Financial Strain, Job loss, and Mental Health\nMady L. J. , Ringlein G. V., Satpathy-Horton R., Stuart E. A., Galea S., Ettman C. K. Pre-existing financial circumstance, job loss, and probable depression among U.S. adults: a prospective population-based cohort study. Lancet Reg Health Am. In press.\nRinglein, G. V., Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. JAMA Network Open, 7(7), e2424601. doi:10.1001/jamanetworkopen.2024.24601\nEttman, C. K., Fan, A. Y., Philips, A. P., Adam, G. P., Ringlein, G., Clark, M. A., et al. (2023). Financial strain and depression in the U.S.: A scoping review. Translational Psychiatry, 13(1), 168. doi:10.1038/s41398-023-02460-z"
+  },
+  {
+    "objectID": "research.html#pediatric-mental-health-and-neuroimaging",
+    "href": "research.html#pediatric-mental-health-and-neuroimaging",
+    "title": "Selected Publications",
+    "section": "Pediatric Mental Health and Neuroimaging",
+    "text": "Pediatric Mental Health and Neuroimaging\n\nZugman, A., Ringlein, G. V., Finn, E. S., Lewis, K. M., Berman, E., Silverman, W. K., et al. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. Psychological Medicine, 55, e91. doi:10.1017/S0033291724003131\nLossio-Ventura, J. A., Frank, S., Ringlein, G., Bonson, K., Olszko, A., Knobel, A., et al. (2025). Automated classification of exposure and encourage events in speech data from pediatric OCD treatment. JAMIA Open, 8(6), ooaf127. doi:10.1093/jamiaopen/ooaf127\nKirk, P. A., Qamar, P., Zugman, A., Abend, R., Frank, S., Ringlein, G. V., et al. (2025). The relations among anxiety, movie-watching, and in-scanner motion. Human Brain Mapping, 46(4), e70163. doi:10.1002/hbm.70163"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Grace V. Ringlein",
     "section": "",
-    "text": "I am a fourth year PhD Candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public health (anticipated graduation in May 2027), advised by Elizabeth Stuart and Trang Nguyen. My research interests broadly include causal inference, electronic health records, algorithmic fairness, and mental health. My dissertation work focuses specifically on the challenge of unobserved confounding.\n\nSee my Student Spotlight to read about my experience in the Department of Biostatistics at Johns Hopkins!"
+    "text": "I am a PhD Candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public health (anticipated graduation in May 2027), advised by Elizabeth Stuart and Trang Nguyen. My research interests broadly include causal inference, electronic health records, algorithmic fairness, and mental health. My dissertation work focuses specifically on the challenge of unobserved confounding.\n\nClick here to read about my experience in the Department of Biostatistics at Johns Hopkins!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n    \n      BA in Physics, MS in Physics & Astronomy\n      University of Pennsylvania\n      August 2016 – May 2020\n    \n    ↓\n    \n      Postbaccalaureate Research Assistant\n      Section on Development and Affective Neuroscience,\n      National Institute of Mental Health\n      June 2020 – June 2022\n    \n    ↓\n    \n      PhD in Biostatistics\n      Johns Hopkins Bloomberg School of Public Health\n      August 2022 – (Expected) Spring 2027"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Grace V. Ringlein",
     "section": "",
-    "text": "I am a fourth year PhD Candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public health (anticipated graduation in May 2027), advised by Elizabeth Stuart and Trang Nguyen. My research interests broadly include causal inference, electronic health records, algorithmic fairness, and mental health. My dissertation work focuses specifically on the challenge of unobserved confounding.\n\nSee my Student Spotlight to read about my experience in the Department of Biostatistics at Johns Hopkins!"
-  },
-  {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "Grace V. Ringlein",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\nRinglein, G. V., Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. arXiv. Under review. doi:10.48550/arxiv.2512.24413\nRinglein, G. V., Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. JAMA Network Open, 7(7), e2424601. doi:10.1001/jamanetworkopen.2024.24601\n\n\n\n\nNguyen, T. Q., Nabi, R., Yang, F., Ringlein, G. V., & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. Statistical Science. doi:10.48550/arXiv.2411.07221\n\n\n\n\nEttman, C. K., Ringlein, G. V., Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. PNAS Nexus, pgaf016. doi:10.1093/pnasnexus/pgaf016\n\n\n\nBrantner, C. L., Yu, W., Zhao, C., Jeon, K., Ringlein, G. V., Wang, Q., et al. (2025). The challenges of integrating diverse data sources: A case study in major depression. Health Services and Outcomes Research Methodology. doi:10.1007/s10742-025-00363-8\n\n\n\n\n\n\n\nZugman, A., Ringlein, G. V., Finn, E. S., Lewis, K. M., Berman, E., Silverman, W. K., et al. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. Psychological Medicine, 55, e91. doi:10.1017/S0033291724003131\n\nFor a full publication list, see my CV or Google Scholar.\n\n\n\n\n\n\n\n  Education and Training\n  \n    \n      BA in Physics, MS in Physics & Astronomy\n      University of Pennsylvania\n      August 2016 – May 2020\n    \n    ↓\n    \n      Postbaccalaureate Research Assistant\n      Section on Development and Affective Neuroscience,\n      National Institute of Mental Health\n      June 2020 – June 2022\n    \n    ↓\n    \n      PhD in Biostatistics\n      Johns Hopkins Bloomberg School of Public Health\n      August 2022 – (Expected) Spring 2027"
+    "text": "I am a PhD Candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public health (anticipated graduation in May 2027), advised by Elizabeth Stuart and Trang Nguyen. My research interests broadly include causal inference, electronic health records, algorithmic fairness, and mental health. My dissertation work focuses specifically on the challenge of unobserved confounding.\n\nClick here to read about my experience in the Department of Biostatistics at Johns Hopkins!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n    \n      BA in Physics, MS in Physics & Astronomy\n      University of Pennsylvania\n      August 2016 – May 2020\n    \n    ↓\n    \n      Postbaccalaureate Research Assistant\n      Section on Development and Affective Neuroscience,\n      National Institute of Mental Health\n      June 2020 – June 2022\n    \n    ↓\n    \n      PhD in Biostatistics\n      Johns Hopkins Bloomberg School of Public Health\n      August 2022 – (Expected) Spring 2027"
   }
 ]
