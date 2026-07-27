@@ -19,35 +19,35 @@ about:
 
 ## About me
 
-I am a fourth year PhD Candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public health (anticipated graduation in May 2027), advised by [Elizabeth Stuart](https://www.elizabethstuart.org/) and [Trang Nguyen](https://nqtrang.com/). My research interests broadly include causal inference, electronic health records, algorithmic fairness, and mental health. My dissertation work focuses specifically on the challenge of unobserved confounding.
+I am a PhD Candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public health (anticipated graduation in May 2027), advised by [Elizabeth Stuart](https://www.elizabethstuart.org/) and [Trang Nguyen](https://nqtrang.com/). My research interests broadly include causal inference, electronic health records, algorithmic fairness, and mental health. My dissertation work focuses specifically on the challenge of unobserved confounding.  
 
 <!-- My overall goal is to make causal conclusions drawn from real-world data more reliable, even when key information is imperfectly measured. -->
 
-See my [Student Spotlight](https://publichealth.jhu.edu/2025/student-spotlight-grace-ringlein) to read about my experience in the Department of Biostatistics at Johns Hopkins!
+Click [here](https://publichealth.jhu.edu/2025/student-spotlight-grace-ringlein) to read about my experience in the Department of Biostatistics at Johns Hopkins!
 
-## Selected Work
+<!-- ## Selected Work -->
 
-<!-- ## Preprints & Under Review -->
+<!-- <!-- ## Preprints & Under Review --> 
 
--   **Ringlein, G. V.**, Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. *arXiv*. Under review. [doi:10.48550/arxiv.2512.24413](https://doi.org/10.48550/ARXIV.2512.24413)
+<!-- **Ringlein, G. V.**, Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. *arXiv*. Under review. [doi:10.48550/arxiv.2512.24413](https://doi.org/10.48550/ARXIV.2512.24413) -->
 
--   **Ringlein, G. V.**, Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. *JAMA Network Open*, 7(7), e2424601. [doi:10.1001/jamanetworkopen.2024.24601](https://doi.org/10.1001/jamanetworkopen.2024.24601)
+<!-- **Ringlein, G. V.**, Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. *JAMA Network Open*, 7(7), e2424601. [doi:10.1001/jamanetworkopen.2024.24601](https://doi.org/10.1001/jamanetworkopen.2024.24601) -->
 
-<!-- Ettman, C. K., Jeon, K., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. Mental health services following suicide-related hospital visits: An analysis of electronic health records. Under review. -->
+<!-- <!-- Ettman, C. K., Jeon, K., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. Mental health services following suicide-related hospital visits: An analysis of electronic health records. Under review. --> 
 
-<!-- ## In Press -->
+<!-- <!-- ## In Press --> 
 
--   Nguyen, T. Q., Nabi, R., Yang, F., **Ringlein, G. V.**, & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. *Statistical Science*. [doi:10.48550/arXiv.2411.07221](https://doi.org/10.48550/arXiv.2411.07221)
+<!-- Nguyen, T. Q., Nabi, R., Yang, F., **Ringlein, G. V.**, & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. *Statistical Science*. [doi:10.48550/arXiv.2411.07221](https://doi.org/10.48550/arXiv.2411.07221) -->
 
-<!-- Hong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., **Ringlein, G.**, et al. Comparative effectiveness of antidepressants for depression using EHRs from two health systems. *BMC Psychiatry.* -->
+<!-- <!-- Hong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., **Ringlein, G.**, et al. Comparative effectiveness of antidepressants for depression using EHRs from two health systems. *BMC Psychiatry.* --> 
 
-<!-- ## Peer-Reviewed Publications -->
+<!-- <!-- ## Peer-Reviewed Publications --> 
 
--   Ettman, C. K., **Ringlein, G. V.**, Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. *PNAS Nexus*, pgaf016. [doi:10.1093/pnasnexus/pgaf016](https://doi.org/10.1093/pnasnexus/pgaf016)
+<!-- Ettman, C. K., **Ringlein, G. V.**, Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. *PNAS Nexus*, pgaf016. [doi:10.1093/pnasnexus/pgaf016](https://doi.org/10.1093/pnasnexus/pgaf016) -->
 
-<!-- Ettman, C. K., Brantner, C. L., Goicoechea, E. B., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. (2025). Gaps in psychiatric care before and after the COVID-19 pandemic among patients with depression using electronic health records. *Psychiatry Research*, 344, 116354. [doi:10.1016/j.psychres.2025.116354](https://doi.org/10.1016/j.psychres.2025.116354) -->
+<!-- <!-- Ettman, C. K., Brantner, C. L., Goicoechea, E. B., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. (2025). Gaps in psychiatric care before and after the COVID-19 pandemic among patients with depression using electronic health records. *Psychiatry Research*, 344, 116354. [doi:10.1016/j.psychres.2025.116354](https://doi.org/10.1016/j.psychres.2025.116354) --> 
 
--   Brantner, C. L., Yu, W., Zhao, C., Jeon, K., **Ringlein, G. V.**, Wang, Q., et al. (2025). The challenges of integrating diverse data sources: A case study in major depression. *Health Services and Outcomes Research Methodology*. [doi:10.1007/s10742-025-00363-8](https://doi.org/10.1007/s10742-025-00363-8)
+<!-- Brantner, C. L., Yu, W., Zhao, C., Jeon, K., **Ringlein, G. V.**, Wang, Q., et al. (2025). The challenges of integrating diverse data sources: A case study in major depression. *Health Services and Outcomes Research Methodology*. [doi:10.1007/s10742-025-00363-8](https://doi.org/10.1007/s10742-025-00363-8) -->
 
 <!-- Ettman, C. K., Fan, A. Y., Philips, A. P., Adam, G. P., **Ringlein, G.**, Clark, M. A., et al. (2023). Financial strain and depression in the U.S.: A scoping review. *Translational Psychiatry*, 13(1), 168. [doi:10.1038/s41398-023-02460-z](https://doi.org/10.1038/s41398-023-02460-z) -->
 
@@ -58,10 +58,10 @@ See my [Student Spotlight](https://publichealth.jhu.edu/2025/student-spotlight-g
 <!-- Richier, C., Zugman, A., Harrewijn, A., Cardinale, E., Khosravi, P., et al. Brain Age Prediction in Generalized Anxiety Disorder using a Convolutional Neural Network. *Translational Psychiatry.* Forthcoming. -->
 
 <!-- Lossio-Ventura, J. A., Frank, S., **Ringlein, G.**, Bonson, K., Olszko, A., Knobel, A., et al. (2025). Automated classification of exposure and encourage events in speech data from pediatric OCD treatment. *JAMIA Open*, 8(6), ooaf127. [doi:10.1093/jamiaopen/ooaf127](https://doi.org/10.1093/jamiaopen/ooaf127) -->
+<!--
+Zugman, A., **Ringlein, G. V.**, Finn, E. S., Lewis, K. M., Berman, E., Silverman, W. K., et al. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. *Psychological Medicine*, 55, e91. [doi:10.1017/S0033291724003131](https://doi.org/10.1017/S0033291724003131) 
 
--   Zugman, A., **Ringlein, G. V.**, Finn, E. S., Lewis, K. M., Berman, E., Silverman, W. K., et al. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. *Psychological Medicine*, 55, e91. [doi:10.1017/S0033291724003131](https://doi.org/10.1017/S0033291724003131)
-
-*For a full publication list, see my [CV](GR_CV_03232026.pdf) or [Google Scholar](https://scholar.google.com/citations?user=8EyqLFQAAAAJ&hl=en&oi=ao.).*
+*For a full publication list, see my [CV](GR_CV_03232026.pdf) or [Google Scholar](https://scholar.google.com/citations?user=8EyqLFQAAAAJ&hl=en&oi=ao.).*-->
 
 <!-- Kirk, P. A., Qamar, P., Zugman, A., Abend, R., Frank, S., **Ringlein, G. V.**, et al. (2025). The relations among anxiety, movie-watching, and in-scanner motion. *Human Brain Mapping*, 46(4), e70163. [doi:10.1002/hbm.70163](https://doi.org/10.1002/hbm.70163) -->
 
@@ -76,7 +76,7 @@ See my [Student Spotlight](https://publichealth.jhu.edu/2025/student-spotlight-g
 <!-- Gnanadesikan, A., Speller, C. M., **Ringlein, G.**, San Soucie, J., Thomas, J., & Pradal, M.-A. (2020). Feedbacks driving interdecadal variability in southern ocean convection in climate models: A coupled oscillator mechanism. *Journal of Physical Oceanography*, 50(8), 2227–2249. [doi:10.1175/JPO-D-20-0037.1](https://doi.org/10.1175/JPO-D-20-0037.1) -->
 
 ```{=html}
-<div id="edu-sidebar" style="display:none">
+<div id="edu-sidebar">
   <h3 style="margin-top:1.2em;">Education and Training</h3>
   <div class="edu-timeline">
     <div class="edu-box">
@@ -99,16 +99,6 @@ See my [Student Spotlight](https://publichealth.jhu.edu/2025/student-spotlight-g
     </div>
   </div>
 </div>
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var edu = document.getElementById('edu-sidebar');
-  var entity = document.querySelector('.quarto-about-trestles .about-entity');
-  if (edu && entity) {
-    edu.style.display = '';
-    entity.appendChild(edu);
-  }
-});
-</script>
 ```
 
 <!-- ```{=html} -->
