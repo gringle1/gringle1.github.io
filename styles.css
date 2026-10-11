@@ -93,3 +93,14 @@
   margin-bottom: 0 !important;
   display: block;
 }
+
+.edu-box a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #aaa;
+  text-underline-offset: 2px;
+}
+
+.edu-box a:hover {
+  text-decoration-color: currentColor;
+}

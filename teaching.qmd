@@ -2,22 +2,37 @@
 title: "Teaching"
 ---
 
-## Johns Hopkins Bloomberg School of Public Health
+## Teaching Philosophy
+
+No matter how a student ends up in my classroom or office, I want to help them build the skills to think critically about data-driven evidence. I aim to:
+
+-   **Teach adaptation alongside fundamentals**, by asking "what if" questions and practicing how to turn ambiguous, real-world questions into statistical ones.
+-   **Lead with intuition**, by using simulations, visuals, and real-world examples before equations.
+-   **Foster psychological safety**, so students feel comfortable asking questions and learning through trial and error.
+-   **Encourage student buy-in**, by connecting statistical reasoning to students' goals and to everyday life.
+
+## Teaching Experience 
+### American University of Armenia
+
+**Visiting Lecturer**, Turpanjian College of Health Sciences, Oct. 26 – Nov. 4, 2026
+
+-   *Inferential Biostatistics* (PH 321)
+
+### Johns Hopkins Bloomberg School of Public Health
 
 **Teaching Assistant**, Department of Biostatistics, 2023–Present
 
--   *Causal Inference in Medicine and Public Health I* (3rd and 4th terms: 2024, 2025; 3rd term: 2026)
-    -   Guest lecture: Regression Discontinuity Designs (March 4, 2025; March 3, 2026)
--   *Multilevel and Longitudinal Models: Data Analysis Workshop* (2nd term, 2025)
--   *Analysis of Multilevel and Longitudinal Models* (1st term, 2025)
--   *Statistical Methods in Public Health I–II* (1st and 2nd terms, 2024)
--   *Statistical Methods in Public Health IV* (4th term, 2026)
--   *Advanced Methods in Biostatistics I–II* (1st and 2nd terms, 2023)
+-   *Statistical Methods in Public Health I* (PH 140.621): Lead TA (1st term, 2026); TA (1st term, 2024)
+-   *Statistical Methods in Public Health II* (PH 140.622): TA (2nd term, 2024)
+-   *Statistical Methods in Public Health IV* (PH 140.624): TA (4th term, 2026)
+-   *Causal Inference in Medicine and Public Health I* (PH 140.664): TA (3rd and 4th terms, 2024 and 2025; 3rd term, 2026)
+-   *Multilevel and Longitudinal Models* (PH 140.655–656): TA (1st and 2nd terms, 2025)
+-   *Advanced Methods in Biostatistics I–II* (PH 140.751–752): TA (1st and 2nd terms, 2023)
 
-## University of Pennsylvania
+### University of Pennsylvania
 
 **Teaching Assistant**, Department of Physics and Astronomy, 2018–2020
 
--   *Laboratory Electronics* (Spring 2020)
--   *Physics for Architects* (Fall 2019)
--   Laboratory Instructor, *General Physics: Electricity, Magnetism, Optics, Modern Physics* (Fall 2019; Spring 2018)
+-   *Laboratory Electronics* (PHYS 364): TA (Spring 2020)
+-   *Physics for Architects* (PHYS 008): TA (Fall 2019)
+-   *General Physics: Electricity, Magnetism, Optics, Modern Physics* (PHYS 102 Lab): Laboratory Instructor (Spring 2018; Fall 2019)

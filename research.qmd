@@ -2,19 +2,21 @@
 title: "Selected Publications"
 ---
 
-*For a full publication list, see my [CV](GR_CV_03232026.pdf) or [Google Scholar](https://scholar.google.com/citations?user=8EyqLFQAAAAJ&hl=en&oi=ao.).*
+*For the most up-to-date publication list, see my [Google Scholar](https://scholar.google.com/citations?user=8EyqLFQAAAAJ&hl=en&oi=ao.).*
 
 ## Methods for Causal Inference
 
-**Ringlein, G. V.**, Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. *arXiv*. Under review. [doi:10.48550/arxiv.2512.24413](https://doi.org/10.48550/ARXIV.2512.24413)
+**Ringlein, G. V.**, Nguyen, T. Q., Stuart, E. A., & Parikh, H. (2026). Proximal causal inference through cross-proxy balancing. *arXiv*. Submitted. [doi:10.48550/arXiv.2609.38175](https://doi.org/10.48550/arXiv.2609.38175)
+
+**Ringlein, G. V.**, Nguyen, T. Q., Zandi, P. P., Stuart, E. A., & Parikh, H. (2025). Demystifying proximal causal inference. *arXiv*. Revising for resubmission. [doi:10.48550/arxiv.2512.24413](https://doi.org/10.48550/ARXIV.2512.24413)
 
 Nguyen, T. Q., Nabi, R., Yang, F., **Ringlein, G. V.**, & Stuart, E. A. Self-separated and self-connected models for mediator and outcome missingness in mediation analysis. *Statistical Science*. In press. [doi:10.48550/arXiv.2411.07221](https://doi.org/10.48550/arXiv.2411.07221).
 
 ## Mental Health Care Utilization: Electronic Health Records Analyses
 
-Ettman, C. K., Jeon, K., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. Psychiatric services following suicide-related hospital visits: An analysis of electronic health records among patients with depression. Under review.
+Ettman, C. K., Jeon, K., Dohlman, P., **Ringlein, G. V.**, Straub, J., et al. Psychiatric services following suicide-related hospital visits: An analysis of electronic health records among patients with depression. *Psychiatric Research and Clinical Practice*. In press.
 
-Hong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., **Ringlein, G. V.**, et al. Comparative effectiveness of antidepressants for depression using EHRs from two health systems. *BMC Psychiatry* (2026). [doi:/10.1186/s12888-026-08159-x](https://doi.org/10.1186/s12888-026-08159-x)
+Hong, H., Zhao, C., Jeon, K., Goicoechea, E. B., Brantner, C. L., **Ringlein, G. V.**, et al. (2026). Comparative effectiveness of antidepressants for depression using EHRs from two health systems. *BMC Psychiatry*, 26, 638. [doi:10.1186/s12888-026-08159-x](https://doi.org/10.1186/s12888-026-08159-x)
 
 Ettman, C. K., **Ringlein, G. V.**, Dohlman, P., Straub, J., Brantner, C. L., Chin, E. T., et al. (2025). Trends in mental health care and telehealth use across area deprivation: An analysis of electronic health records from 2016–2024. *PNAS Nexus*, pgaf016. [doi:10.1093/pnasnexus/pgaf016](https://doi.org/10.1093/pnasnexus/pgaf016)
 
@@ -24,15 +26,17 @@ Brantner, C. L., Yu, W., Zhao, C., Jeon, K., **Ringlein, G. V.**, Wang, Q., et a
 
 ## Financial Strain, Job loss, and Mental Health
 
-Mady L. J. , **Ringlein G. V.,** Satpathy-Horton R., Stuart E. A., Galea S., Ettman C. K. (2026). Pre-existing financial circumstance, job loss, and probable depression among U.S. adults: a prospective population-based cohort study. *Lancet Regional Health Americas,* 63. [doi:/10.1016/j.lana.2026.101590](https://doi.org/10.1016/j.lana.2026.101590)
+Mady, L. J., **Ringlein, G. V.**, Satpathy-Horton, R., Stuart, E. A., Galea, S., & Ettman, C. K. (2026). Pre-existing financial circumstance, job loss, and probable depression among U.S. adults: A prospective population-based cohort study. *Lancet Regional Health – Americas*, 63. [doi:10.1016/j.lana.2026.101590](https://doi.org/10.1016/j.lana.2026.101590)
 
-**Ringlein, G. V.**, Ettman, C. K., & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. *JAMA Network Open*, 7(7), e2424601. [doi:10.1001/jamanetworkopen.2024.24601](https://doi.org/10.1001/jamanetworkopen.2024.24601)
+**Ringlein, G. V.**\*, Ettman, C. K.\*, & Stuart, E. A. (2024). Income or job loss and psychological distress during the COVID-19 pandemic. *JAMA Network Open*, 7(7), e2424601. [doi:10.1001/jamanetworkopen.2024.24601](https://doi.org/10.1001/jamanetworkopen.2024.24601) \*Co-first authors.
 
 Ettman, C. K., Fan, A. Y., Philips, A. P., Adam, G. P., **Ringlein, G.**, Clark, M. A., et al. (2023). Financial strain and depression in the U.S.: A scoping review. *Translational Psychiatry*, 13(1), 168. [doi:10.1038/s41398-023-02460-z](https://doi.org/10.1038/s41398-023-02460-z)
 
 ## Pediatric Mental Health and Neuroimaging
 
 <!-- *Selected Publications affiliated with my postbaccalaureate fellowship at National Institute of Mental Health.* -->
+
+Richier, C., Zugman, A., Harrewijn, A., Cardinale, E., Khosravi, P., ..., **Ringlein, G. V.**, et al. (2026). Brain age prediction in generalized anxiety disorder using a convolutional neural network. *Translational Psychiatry*, 16, 368. [doi:10.1038/s41398-026-04078-3](https://doi.org/10.1038/s41398-026-04078-3)
 
 Zugman, A., **Ringlein, G. V.**, Finn, E. S., Lewis, K. M., Berman, E., Silverman, W. K., et al. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. *Psychological Medicine*, 55, e91. [doi:10.1017/S0033291724003131](https://doi.org/10.1017/S0033291724003131)
 

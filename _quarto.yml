@@ -9,11 +9,11 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      # - href: teaching.qmd
-      #   text: Teaching
+      - href: teaching.qmd
+        text: Teaching
       # - href: education.qmd
       #   text: Education
-      - href: grace_ringlein_CV_08052026.pdf
+      - href: GR_CV_10112026.pdf
         text: CV
       # - href: fun.qmd
       #   text: Fun
