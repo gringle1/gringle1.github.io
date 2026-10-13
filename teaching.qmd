@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 ---
-
+<!--
 ## Teaching Philosophy
 
 No matter how a student ends up in my classroom or office, I want to help them build the skills to think critically about data-driven evidence. I aim to:
@@ -10,7 +10,7 @@ No matter how a student ends up in my classroom or office, I want to help them b
 -   **Lead with intuition**, by using simulations, visuals, and real-world examples before equations.
 -   **Foster psychological safety**, so students feel comfortable asking questions and learning through trial and error.
 -   **Encourage student buy-in**, by connecting statistical reasoning to students' goals and to everyday life.
-
+-->
 ## Teaching Experience 
 ### American University of Armenia
 

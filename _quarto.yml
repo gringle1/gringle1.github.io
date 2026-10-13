@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - google9598d18dc439c349.html
 
 website:
   title: "Grace V. Ringlein"
